@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 I started my tech journey about three years ago, initially exploring frontend development while still in school. Over time, I began learning more about web development, working on simple projects to build my skills. Before college, I had already built a few basic projects and got interested in the full stack. In college, I started focusing more on the backend, particularly during hackathons, where I handled the backend tasks for most of the projects. While I participated in 3-4 hackathons, none of them resulted in wins, but each experience helped me improve my problem-solving and collaboration skills. Currently, I’m transitioning into Machine Learning, eager to expand my knowledge and take on new challenges in the field.
 
 * 🌍  I'm based in Lucknow , India
-* 🖥️  See my portfolio at [https://portfolio-git-main-mohammad-hamza-khans-projects.vercel.app/](https://portfolio-git-main-mohammad-hamza-khans-projects.vercel.app/)
+* 🖥️  See my portfolio at [https://portfolio-phi-rose-86.vercel.app/](https://portfolio-phi-rose-86.vercel.app/)
 * ✉️  You can contact me at [mohdhamzakhan2005@gmail.com](mailto:mohdhamzakhan2005@gmail.com)
 * 🚀  I'm currently working on [DSA in Java](http://github.com/Hamzakhan2005/dsa-practice)
 * 🧠  I'm learning Machine Learning
