@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Aspiring Full Stack Dev | Exploring AI/ML | Learning by building
 -------------------------------------------------------------------
 # 💫 About Me:
-* 🔭 I’m currently working asa Full Stack Web Developer in WYOM LLC.
+* 🔭 I’m currently working as a Full Stack Web Developer in WYOM LLC.
 * 🛠️ I’ve built projects like:
 * Locora – a community help platform.
 * Rag-Bot – a document summarizer and Q&A.
