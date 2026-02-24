@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Aspiring Full Stack Dev | Exploring AI/ML | Learning by building
 -------------------------------------------------------------------
 # 💫 About Me:
-* 🔭 I’m currently working on a Smart India Hackathon (SIH) project, where I’m using Python & FastAPI to build efficient backend systems.
+* 🔭 I’m currently working asa Full Stack Web Developer in WYOM LLC.
 * 🛠️ I’ve built projects like:
 * Locora – a community help platform.
 * Wanderlust – an Airbnb clone with authentication, reviews, and Mapbox integration.
