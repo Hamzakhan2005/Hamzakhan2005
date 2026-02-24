@@ -7,7 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🔭 I’m currently working asa Full Stack Web Developer in WYOM LLC.
 * 🛠️ I’ve built projects like:
 * Locora – a community help platform.
+* Rag-Bot – a document summarizer and Q&A.
 * Wanderlust – an Airbnb clone with authentication, reviews, and Mapbox integration.
+* Yoink - a peer to peer document sharing and texting app.
 * Game of Life – a simulation project.
 * OneFinance – a personal financial tracking app built during a hackathon.
 * Freelancer Platform – a full backend system developed at IIT Roorkee hackathon.
